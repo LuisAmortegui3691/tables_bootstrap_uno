@@ -1,0 +1,16 @@
+.border-manual
+{
+	border: 2px solid #66ccff;
+}
+
+.pasar-mouse-efecto:hover
+{
+	background-color: #80ffff;
+	color: black;
+}
+
+.pasar-mouse-efecto-pantalla-negra:hover
+{
+	background-color: #00e6e6;
+	color: black;
+}
